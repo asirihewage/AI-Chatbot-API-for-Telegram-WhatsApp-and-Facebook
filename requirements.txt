@@ -1,0 +1,4 @@
+PyPDF2
+allennlp
+allennlp-models
+flask
